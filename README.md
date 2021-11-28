@@ -9,6 +9,7 @@ Complete a month cost analysis of each Azure resource to give an estimate total 
 | *Web App*   |    App Service(F1 : Free)     |     0 INR         |
 | *Azure Function App*   | App Service (B1 : 1)        |     894.08 INR         |
 | *Azure Storage*   | Basic        |     75.05 INR         |
+| *SendGrid Plan*   | Essentials        |     1,122.04 INR         |
 
 ## Architecture Explanation
 
